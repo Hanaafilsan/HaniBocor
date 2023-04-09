@@ -1,5 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Hani Nuur Bocor</h1>
+- 🌱 I’m currently learning **Computer science**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/engneer hanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engneer hanaa" height="30" width="40" /></a>
