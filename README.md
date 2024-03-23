@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hani Nuur Bocor</h1>
+<h1 align="center">Hi 👋, I'm Hani Bocor</h1>
 - 🌱 I’m currently learning **Computer science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/engneer hanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engneer hanaa" height="30" width="40" /></a>
+<a href="[https://fb.com/engneer hanaa](https://www.facebook.com/profile.php?id=100085940062496&mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engneer hanaa" height="30" width="40" /></a>
 <a href="https://instagram.com/hani_bocor51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hani_bocor51" height="30" width="40" /></a>
 </p>
 
